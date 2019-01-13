@@ -1,0 +1,12 @@
+{
+    "applications" : { 
+        "HelloWorld-display" : {
+            "additionalInformation" : "SAPUI5.Component=HelloWorld",
+            "applicationType" : "URL",
+            "url" : "/",
+            "title" : "Hello World",
+            "description" : "Hello World"
+        }
+
+    }
+}
